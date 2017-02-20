@@ -1,13 +1,5 @@
 # Alternativas a pordede cuando cae
-http://1337x.to/
 
-http://bitsnoop.com/
-
-http://completediscographies.blogspot.com.ar/
-
-http://cuelgame.net/
-
-http://extratorrent.cc/
 
 http://gnula.nu
 
@@ -126,3 +118,18 @@ https://www.torrentz.com/
 https://yts.re/
 
 www.pelispedia.tv
+
+
+
+POR TORRENT
+_________________________
+
+http://1337x.to/
+
+http://bitsnoop.com/
+
+http://completediscographies.blogspot.com.ar/
+
+http://cuelgame.net/
+
+http://extratorrent.cc/
